@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tobechinw
+- 👋 Hi, I’m Tobechi
 - 👀 I’m interested in soccer and coding
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
