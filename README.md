@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 <!--   </a> -->
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DamiAdesola&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=DamiAdesola&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tobechinw&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=tobechinw&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
